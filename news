@@ -1,3 +1,7 @@
 today is very happy!
 2017/9/8 is very sad!
+<<<<<<< HEAD
 no,today is happy!
+=======
+no,today is fuck!
+>>>>>>> dev
